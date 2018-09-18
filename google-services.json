@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "758874340479",
+    "firebase_url": "https://myraspdoorbell.firebaseio.com",
+    "project_id": "myraspdoorbell",
+    "storage_bucket": "myraspdoorbell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758874340479:android:b391fc471fa6bcb1",
+        "android_client_info": {
+          "package_name": "com.sekhartech.rasppidoorbell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758874340479-is4vu1qcn40g1k52g9a5lcn0oe0ei68g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKrWAJSGiX6p-EAQddRx8b-ORyduuOSMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
